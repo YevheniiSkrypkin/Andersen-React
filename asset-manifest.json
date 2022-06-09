@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Andersen-React/static/css/main.6ba09061.css",
+    "main.js": "/Andersen-React/static/js/main.5add7bf9.js",
+    "static/js/787.cb891673.chunk.js": "/Andersen-React/static/js/787.cb891673.chunk.js",
+    "index.html": "/Andersen-React/index.html",
+    "main.6ba09061.css.map": "/Andersen-React/static/css/main.6ba09061.css.map",
+    "main.5add7bf9.js.map": "/Andersen-React/static/js/main.5add7bf9.js.map",
+    "787.cb891673.chunk.js.map": "/Andersen-React/static/js/787.cb891673.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ba09061.css",
+    "static/js/main.5add7bf9.js"
+  ]
+}
